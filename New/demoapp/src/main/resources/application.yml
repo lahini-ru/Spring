@@ -1,0 +1,7 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+#        add all endpoint to actuator
